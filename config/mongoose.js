@@ -5,7 +5,7 @@ const mongoose = require('mongoose');
 // here we are using the MongoDB Url by extracting it fron our .env file
 let DB_URL = process.env.DB_URL;    
 
-//connect to the database
+// connect to the database
 mongoose.connect(DB_URL , 
   {
     usenewurlparser: true,
@@ -16,5 +16,8 @@ mongoose.connect(DB_URL ,
     console.log(`error connecting to database` , err);
   })
  
+// mongoose.connect(process.env.DB_URL, () => {
+//   console.log("Mongo connected");
+// });
 
 
