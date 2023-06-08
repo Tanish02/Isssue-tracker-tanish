@@ -2,10 +2,11 @@
 
 # ⚠️Issue Tracker
 
-🔴This Issue Tracker Project is made with NODEJS 🔴 I used EJS template engine to load Content Dynamically 🔴 I used NOSQL Database MongoDB to store and Fetch Data  
+🔴This Issue Tracker Project is made with NODEJS 
+🔴 I used EJS template engine to load Content Dynamically 
+🔴 I used NOSQL Database MongoDB to store and Fetch Data  
 
 ## 🪧Demo
-
 https://issue-tracker-by-tanish.onrender.com/
 
 
@@ -25,23 +26,25 @@ https://issue-tracker-by-tanish.onrender.com/
 🟠NODEJS 🟠ExpressJS 🟠MongoDB 🟠mongoose 🟠EJS 
 ## 🖼️Screenshots
 🔴 Landing Page
-![Screenshot_1]()
+![Screenshot_1](https://github.com/Tanish02/Issue-tracker-tanish/assets/68606255/89fbbace-1f80-41e8-8106-956e25a47d99)
+)
 
 🔴Create Project View
-![Screenshot_6](https://user-images.githubusercontent.com/125384723/226374440-d4dddba0-a1b1-46f8-9de4-bcce3e42e485.png)
+![Screenshot_6](https://github.com/Tanish02/Issue-tracker-tanish/assets/68606255/70c65ab3-3614-4e3c-be3d-e0f7dd79448a)
+)
 
 🔴Project Issues Page
-![Screenshot_3](https://user-images.githubusercontent.com/125384723/226374702-63c5f321-a5cc-4848-8433-4b00a762a184.png)
+![Screenshot_3](https://github.com/Tanish02/Issue-tracker-tanish/assets/68606255/77c0edc9-41d9-4c3b-ad4b-19887c19ff4d))
 
 🔴All Issues 
 
-![Screenshot_2](https://user-images.githubusercontent.com/125384723/226375138-bd4368b9-8c67-4f7d-aeb0-9c00b71e3189.png)
+![Screenshot_2](https://github.com/Tanish02/Issue-tracker-tanish/assets/68606255/88eae1dd-daa0-44c4-a75d-150d7a7a27de))
 
 🔴Filter by Label
-![Screenshot_5](https://user-images.githubusercontent.com/125384723/226375588-376d22bd-4126-444f-a649-f5a65b4369ea.png)
+![Screenshot_5](https://github.com/Tanish02/Issue-tracker-tanish/assets/68606255/fad2387d-bc11-4c8b-8176-b30db76decc3))
 
 🔴Search by Title or Description
-![Screenshot_4](https://user-images.githubusercontent.com/125384723/226375745-ed27abe8-ad6a-44e2-b5df-d7b5cafc8e26.png)
+![Screenshot_4](https://github.com/Tanish02/Issue-tracker-tanish/assets/68606255/85146637-fa5a-4832-a03f-bf327a8203fa))
 
 ## ✨Features
 
@@ -80,7 +83,4 @@ https://issue-tracker-by-tanish.onrender.com/
 ## 👦Contact
 🔗 Author - @Tanish
 
-✅ Linkedin ✅ https://www.linkedin.com/in/dhananjay-khodaskar-5333b2239 ✅
-
-✅ Github   ✅ https://github.com/DhananjayKhodaskar✅
 
